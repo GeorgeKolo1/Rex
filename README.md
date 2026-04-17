@@ -16,3 +16,8 @@ Rex is a command-line tool that identifies and clusters all isolates based on us
 ## Output
 
 ## Citation
+
+## Why Rex?
+The name originates from the fact that the CLI tool identifies user-defined clonal clusters. Star wars... Clones... Rex.... 
+
+If you know, you know.
