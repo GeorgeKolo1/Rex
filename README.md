@@ -18,6 +18,13 @@ Rex is a command-line tool that identifies and clusters all isolates based on us
 
 ## Citation
 
+## To-do
+[] Finish README
+[] Create tests folder and create test files
+[] Enable CI/CD
+[] Finish snpdist_run function
+[] Finish CLI interface
+
 ## Why Rex?
 The name originates from the fact that the CLI tool identifies user-defined clonal clusters. Clones...
 
